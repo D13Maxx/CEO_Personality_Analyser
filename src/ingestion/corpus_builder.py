@@ -1,13 +1,7 @@
 """
 Corpus builder for the CEO Personality Analyzer.
-
-Processes all PDF transcripts in a directory, aggregates speech per
-executive across multiple files, applies the minimum word threshold,
-and saves the final corpus as JSON + Parquet.
-
-Uses JSONL append-only checkpointing so processing can be safely
-interrupted and resumed. Optional Colab local-copy mode avoids
-the Drive FUSE bottleneck.
+Processes all PDF transcripts in a directory, aggregates speech per executive across multiple files, applies the minimum word threshold, and saves the final corpus as JSON + Parquet.
+Uses JSONL append-only checkpointing so processing can be safelyinterrupted and resumed. Optional Colab local-copy mode avoids the Drive FUSE bottleneck.
 """
 
 import os
