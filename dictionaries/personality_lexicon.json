@@ -1,0 +1,67 @@
+{
+  "openness": {
+    "positive": [
+      "innovative", "creative", "explore", "imagine", "novel", "curious", 
+      "vision", "invent", "original", "discover", "unconventional", "diversity",
+      "pioneer", "disruptive", "breakthrough", "transformation", "agile",
+      "experiment", "future", "evolve", "adapt", "broaden", "expand"
+    ],
+    "negative": [
+      "conventional", "routine", "traditional", "status quo", "predictable",
+      "standard", "customary", "habitual", "usual", "familiar", "conservative"
+    ],
+    "features": ["type_token_ratio", "avg_word_length", "article_rate", "preposition_rate"]
+  },
+  "conscientiousness": {
+    "positive": [
+      "achieve", "discipline", "systematic", "thorough", "precise", "plan",
+      "goal", "target", "execute", "strategy", "diligent", "reliable", "focus",
+      "metric", "measure", "process", "efficiency", "rigor", "milestone",
+      "deliver", "commit", "schedule", "track", "compliance", "standard"
+    ],
+    "negative": [
+      "careless", "negligent", "haphazard", "random", "disorganized",
+      "unprepared", "chaotic", "loose", "inconsistent", "miss", "delay"
+    ],
+    "features": ["certainty_words", "future_tense_ratio", "negation_rate_inv"]
+  },
+  "extraversion": {
+    "positive": [
+      "team", "together", "partner", "collaborate", "engage", "network",
+      "community", "connect", "discuss", "share", "communicate", "energy",
+      "dynamic", "growth", "enthusiasm", "excited", "momentum", "strong",
+      "aggressive", "leadership", "market share", "drive", "accelerate"
+    ],
+    "negative": [
+      "quiet", "reserved", "cautious", "solo", "independent", "isolate",
+      "withdraw", "hesitant", "slow", "passive"
+    ],
+    "features": ["first_person_plural_rate", "positive_emotion_rate", "words_per_turn"]
+  },
+  "agreeableness": {
+    "positive": [
+      "help", "support", "appreciate", "thank", "grateful", "trust", 
+      "respect", "cooperate", "value", "care", "welfare", "harmony",
+      "fair", "kind", "generous", "empathy", "understanding", "patient",
+      "welcome", "pleased", "delighted", "relationship", "stakeholder"
+    ],
+    "negative": [
+      "fight", "conflict", "argue", "hostile", "compete", "dominate",
+      "force", "demand", "refuse", "reject", "harsh", "tough"
+    ],
+    "features": ["positive_emotion_rate", "social_words_rate", "anger_words_rate_inv"]
+  },
+  "neuroticism": {
+    "positive": [
+      "anxious", "worry", "concern", "fear", "risk", "threat", "uncertain",
+      "volatile", "pressure", "stress", "crisis", "difficult", "challenge",
+      "nervous", "afraid", "doubt", "struggle", "headwind", "decline",
+      "problem", "issue", "bad", "worse", "fail"
+    ],
+    "negative": [
+      "calm", "confident", "stable", "secure", "certain", "steady",
+      "resilient", "safe", "comfortable", "relaxed", "optimistic"
+    ],
+    "features": ["first_person_singular_rate", "negative_emotion_rate", "hedging_rate"]
+  }
+}
