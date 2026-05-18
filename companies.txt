@@ -1,0 +1,466 @@
+360 ONE WAM Ltd.
+3M India Ltd.
+Aarti Drugs Ltd.
+Aarti Industries Ltd.
+Aavas Financiers Ltd.
+ABB India Ltd.
+Abbott India Ltd.
+ACC Ltd.
+Action Construction Equipment Ltd.
+Adani Energy Solutions Ltd.
+Adani Enterprises Ltd.
+Adani Green Energy Ltd.
+Adani Ports and Special Economic Zone Ltd.
+Adani Power Ltd.
+Adani Total Gas Ltd.
+Adani Wilmar Ltd.
+Aditya Birla Capital Ltd.
+Aditya Birla Fashion and Retail Ltd.
+Aditya Birla Sun Life AMC Ltd.
+Aegis Logistics Ltd.
+Aether Industries Ltd.
+Affle (India) Ltd.
+AIA Engineering Ltd.
+Ajanta Pharma Ltd.
+Alembic Pharmaceuticals Ltd.
+Alkem Laboratories Ltd.
+Alkyl Amines Chemicals Ltd.
+Allcargo Logistics Ltd.
+Alok Industries Ltd.
+Amara Raja Energy & Mobility Ltd.
+Amber Enterprises India Ltd.
+Ambuja Cements Ltd.
+Anand Rathi Wealth Ltd.
+Anant Raj Ltd.
+Angel One Ltd.
+Anupam Rasayan India Ltd.
+Apar Industries Ltd.
+APL Apollo Tubes Ltd.
+Apollo Hospitals Enterprise Ltd.
+Apollo Tyres Ltd.
+Aptus Value Housing Finance India Ltd.
+Archean Chemical Industries Ltd.
+Asahi India Glass Ltd.
+Ashok Leyland Ltd.
+Asian Paints Ltd.
+Aster DM Healthcare Ltd.
+Astral Ltd.
+AstraZeneca Pharma India Ltd.
+Atul Ltd.
+AU Small Finance Bank Ltd.
+Aurobindo Pharma Ltd.
+Avanti Feeds Ltd.
+Avenue Supermarts Ltd.
+Axis Bank Ltd.
+BEML Ltd.
+BSE Ltd.
+Bajaj Auto Ltd.
+Bajaj Electricals Ltd.
+Bajaj Finance Ltd.
+Bajaj Finserv Ltd.
+Bajaj Holdings & Investment Ltd.
+Balaji Amines Ltd.
+Balkrishna Industries Ltd.
+Balrampur Chini Mills Ltd.
+Bandhan Bank Ltd.
+Bank of Baroda Bank of India Bank of Maharashtra BASF India Ltd.
+Bata India Ltd.
+Bayer Cropscience Ltd.
+Berger Paints India Ltd.
+Bharat Dynamics Ltd.
+Bharat Electronics Ltd.
+Bharat Forge Ltd.
+Bharat Heavy Electricals Ltd.
+Bharat Petroleum Corporation Ltd.
+Bharti Airtel Ltd.
+Bikaji Foods International Ltd.
+Biocon Ltd.
+Birla Corporation Ltd.
+Birlasoft Ltd.
+BLS International Services Ltd.
+Blue Dart Express Ltd.
+Blue Star Ltd.
+Bombay Burmah Trading Corporation Ltd.
+Bosch Ltd.
+Brigade Enterprises Ltd.
+Britannia Industries Ltd.
+C.E. Info Systems Ltd.
+Campus Activewear Ltd.
+Can Fin Homes Ltd.
+Canara Bank Capri Global Capital Ltd.
+Carborundum Universal Ltd.
+Castrol India Ltd.
+CCL Products (India) Ltd.
+Central Bank of India Century Plyboards (India) Ltd.
+Century Textiles & Industries Ltd.
+Cera Sanitaryware Ltd.
+CESC Ltd.
+CG Power and Industrial Solutions Ltd.
+Chalet Hotels Ltd.
+Chambal Fertilisers and Chemicals Ltd.
+Chemplast Sanmar Ltd.
+Chennai Petroleum Corporation Ltd.
+Cholamandalam Financial Holdings Ltd.
+Cholamandalam Investment and Finance Company Ltd.
+Cipla Ltd.
+City Union Bank Ltd.
+Clean Science and Technology Ltd.
+Coal India Ltd.
+Cochin Shipyard Ltd.
+Coforge Ltd.
+Colgate-Palmolive (India) Ltd.
+Computer Age Management Services Ltd.
+Concord Biotech Ltd.
+Container Corporation of India Ltd.
+Coromandel International Ltd.
+Craftsman Automation Ltd.
+CreditAccess Grameen Ltd.
+CRISIL Ltd.
+Crompton Greaves Consumer Electricals Ltd.
+CSB Bank Ltd.
+Cummins India Ltd.
+Cyient Ltd.
+Dabur India Ltd.
+Dalmia Bharat Ltd.
+Data Patterns (India) Ltd.
+Deepak Fertilisers and Petrochemicals Corporation Ltd.
+Deepak Nitrite Ltd.
+Delhivery Ltd.
+Devyani International Ltd.
+Divi's Laboratories Ltd.
+Dixon Technologies (India) Ltd.
+DLF Ltd.
+Dr. Lal PathLabs Ltd.
+Dr. Reddy's Laboratories Ltd.
+eClerx Services Ltd.
+Eicher Motors Ltd.
+E.I.D. - Parry (India) Ltd.
+EIH Ltd.
+Elecon Engineering Company Ltd.
+Elgi Equipments Ltd.
+Emami Ltd.
+Endurance Technologies Ltd.
+Engineers India Ltd.
+EPL Ltd.
+Equitas Small Finance Bank Ltd.
+ERIS Lifesciences Ltd.
+Escorts Kubota Ltd.
+Exide Industries Ltd.
+FDC Ltd.
+Federal Bank Ltd.
+Fertilisers and Chemicals Travancore Ltd.
+Fine Organic Industries Ltd.
+Finolex Cables Ltd.
+Finolex Industries Ltd.
+Firstsource Solutions Ltd.
+Five-Star Business Finance Ltd.
+Fortis Healthcare Ltd.
+G R Infraprojects Ltd.
+GAIL (India) Ltd.
+Galaxy Surfactants Ltd.
+Gillette India Ltd.
+Gland Pharma Ltd.
+GlaxoSmithKline Pharmaceuticals Ltd.
+Glenmark Life Sciences Ltd.
+Glenmark Pharmaceuticals Ltd.
+Global Health Ltd.
+GMR Airports Infrastructure Ltd.
+Godfrey Phillips India Ltd.
+Godrej Agrovet Ltd.
+Godrej Consumer Products Ltd.
+Godrej Industries Ltd.
+Godrej Properties Ltd.
+Gokaldas Exports Ltd.
+Granules India Ltd.
+Graphite India Ltd.
+Grasim Industries Ltd.
+Great Eastern Shipping Company Ltd.
+Grindwell Norton Ltd.
+Gujarat Ambuja Exports Ltd.
+Gujarat Alkalies and Chemicals Ltd.
+Gujarat Fluorochemicals Ltd.
+Gujarat Gas Ltd.
+Gujarat Narmada Valley Fertilizers and Chemicals Ltd.
+Gujarat Pipavav Port Ltd.
+Gujarat State Fertilizers & Chemicals Ltd.
+Gujarat State Petronet Ltd.
+Hathway Cable & Datacom Ltd.
+Havells India Ltd.
+HCL Technologies Ltd.
+HDFC Asset Management Company Ltd.
+HDFC Bank Ltd.
+HDFC Life Insurance Company Ltd.
+HEG Ltd.
+Hero MotoCorp Ltd.
+HFCL Ltd.
+Hindalco Industries Ltd.
+Hindustan Aeronautics Ltd.
+Hindustan Copper Ltd.
+Hindustan Petroleum Corporation Ltd.
+Hindustan Unilever Ltd.
+Hindustan Zinc Ltd.
+Hitachi Energy India Ltd.
+Home First Finance Company India Ltd.
+Honasa Consumer Ltd.
+Honeywell Automation India Ltd.
+Housing & Urban Development Corporation Ltd.
+ICICI Bank Ltd.
+ICICI Lombard General Insurance Company Ltd.
+ICICI Prudential Life Insurance Company Ltd.
+ICICI Securities Ltd.
+IDBI Bank Ltd.
+IDFC First Bank Ltd.
+IDFC Ltd.
+IFCI Ltd.
+IIFL Finance Ltd.
+India Cements Ltd.
+Indiamart Intermesh Ltd.
+Indian Bank Indian Energy Exchange Ltd.
+Indian Hotels Company Ltd.
+Indian Oil Corporation Ltd.
+Indian Overseas Bank Indian Railway Catering And Tourism Corporation Ltd.
+Indian Railway Finance Corporation Ltd.
+Indigrid InvIT Fund Indo Count Industries Ltd.
+Indraprastha Gas Ltd.
+Indus Towers Ltd.
+IndusInd Bank Ltd.
+Info Edge (India) Ltd.
+Infosys Ltd.
+Inox Wind Ltd.
+Intellect Design Arena Ltd.
+InterGlobe Aviation Ltd.
+Ipca Laboratories Ltd.
+IRCON International Ltd.
+ITC Ltd.
+ITI Ltd.
+J&K Bank Ltd.
+JB Chemicals & Pharmaceuticals Ltd.
+JBM Auto Ltd.
+Jindal Saw Ltd.
+Jindal Stainless Ltd.
+Jindal Steel & Power Ltd.
+Jio Financial Services Ltd.
+JK Cement Ltd.
+JK Lakshmi Cement Ltd.
+JK Paper Ltd.
+JK Tyre & Industries Ltd.
+JMF Financial Ltd.
+JSW Energy Ltd.
+JSW Infrastructure Ltd.
+JSW Steel Ltd.
+Jubilant FoodWorks Ltd.
+Jubilant Ingrevia Ltd.
+Jubilant Pharmova Ltd.
+Jupiter Wagons Ltd.
+Just Dial Ltd.
+Jyothy Labs Ltd.
+Kalyan Jewellers India Ltd.
+Kansai Nerolac Paints Ltd.
+Karur Vysya Bank Ltd.
+Kaynes Technology India Ltd.
+KEC International Ltd.
+KEI Industries Ltd.
+Kfin Technologies Ltd.
+Kotak Mahindra Bank Ltd.
+KPIT Technologies Ltd.
+KPR Mill Ltd.
+KNR Constructions Ltd.
+Kriti Industries (India) Ltd.
+L&T Finance Ltd.
+L&T Technology Services Ltd.
+Larsen & Toubro Ltd.
+Laurus Labs Ltd.
+Lemon Tree Hotels Ltd.
+LIC Housing Finance Ltd.
+Life Insurance Corporation of India Linde India Ltd.
+Lloyds Metals and Energy Ltd.
+LTIMindtree Ltd.
+Lupin Ltd.
+Macrotech Developers Ltd.
+Mahanagar Gas Ltd.
+Maharashtra Seamless Ltd.
+Mahindra & Mahindra Financial Services Ltd.
+Mahindra & Mahindra Ltd.
+Mahindra Holidays & Resorts India Ltd.
+Mahindra Lifespace Developers Ltd.
+Mankind Pharma Ltd.
+Manappuram Finance Ltd.
+Marico Ltd.
+Maruti Suzuki India Ltd.
+Mastek Ltd.
+Max Financial Services Ltd.
+Max Healthcare Institute Ltd.
+Mazagon Dock Shipbuilders Ltd.
+Medplus Health Services Ltd.
+Metro Brands Ltd.
+Metropolis Healthcare Ltd.
+Minda Corporation Ltd.
+Mindspace Business Parks REIT Motherson Sumi Wiring India Ltd.
+Mphasis Ltd.
+MRF Ltd.
+MTAR Technologies Ltd.
+Mukand Ltd.
+Multi Commodity Exchange of India Ltd.
+Muthoot Finance Ltd.
+Narayana Hrudayalaya Ltd.
+National Aluminium Company Ltd.
+Nava Ltd.
+Navin Fluorine International Ltd.
+NCC Ltd.
+Nestle India Ltd.
+Network18 Media & Investments Ltd.
+Neogen Chemicals Ltd.
+Nesco Ltd.
+Nippon Life India Asset Management Ltd.
+NMDC Ltd.
+NOCIL Ltd.
+NTPC Ltd.
+Nuvoco Vistas Corporation Ltd.
+Oberoi Realty Ltd.
+Oil & Natural Gas Corporation Ltd.
+Oil India Ltd.
+Olectra Greentech Ltd.
+One 97 Communications Ltd.
+Oracle Financial Services Software Ltd.
+Orient Electric Ltd.
+Page Industries Ltd.
+Patanjali Foods Ltd.
+PB Fintech Ltd.
+PCBL Ltd.
+Persistent Systems Ltd.
+Petronet LNG Ltd.
+Phoenix Mills Ltd.
+PI Industries Ltd.
+Pidilite Industries Ltd.
+Piramal Enterprises Ltd.
+Piramal Pharma Ltd.
+PNB Housing Finance Ltd.
+PNC Infratech Ltd.
+Polycab India Ltd.
+Poonawalla Fincorp Ltd.
+Power Finance Corporation Ltd.
+Power Grid Corporation of India Ltd.
+Praj Industries Ltd.
+Prestige Estates Projects Ltd.
+Prince Pipes and Fittings Ltd.
+Prism Johnson Ltd.
+Procter & Gamble Health Ltd.
+Procter & Gamble Hygiene and Health Care Ltd.
+PVR INOX Ltd.
+Punjab & Sind Bank Punjab National Bank Quess Corp Ltd.
+Radico Khaitan Ltd.
+Rail Vikas Nigam Ltd.
+RailTel Corporation of India Ltd.
+Rain Industries Ltd.
+Rajesh Exports Ltd.
+Rallis India Ltd.
+Ramco Cements Ltd.
+RateGain Travel Technologies Ltd.
+Ratnamani Metals & Tubes Ltd.
+Raymond Ltd.
+RBL Bank Ltd.
+REC Ltd.
+Redington Ltd.
+Relaxo Footwears Ltd.
+Reliance Industries Ltd.
+Religare Enterprises Ltd.
+Restaurant Brands Asia Ltd.
+RHI Magnesita India Ltd.
+RITES Ltd.
+Roopaq Ltd.
+Route Mobile Ltd.
+SJVN Ltd.
+Safari Industries (India) Ltd.
+Samvardhana Motherson International Ltd.
+Sanofi India Ltd.
+Sapphire Foods India Ltd.
+Saregama India Ltd.
+Schaeffler India Ltd.
+Schneider Electric Infrastructure Ltd.
+SBI Cards and Payment Services Ltd.
+SBI Life Insurance Company Ltd.
+Sheela Foam Ltd.
+Shree Cement Ltd.
+Shree Renuka Sugars Ltd.
+Shriram Finance Ltd.
+Shyam Metalics and Energy Ltd.
+Siemens Ltd.
+Signatureglobal (India) Ltd.
+SKF India Ltd.
+Sobha Ltd.
+Solar Industries India Ltd.
+Sonata Software Ltd.
+South Indian Bank Ltd.
+Star Health and Allied Insurance Company Ltd.
+State Bank of India Steel Authority of India Ltd.
+Sterling and Wilson Renewable Energy Ltd.
+Sumitomo Chemical India Ltd.
+Sun Pharma Advanced Research Company Ltd.
+Sun Pharmaceutical Industries Ltd.
+Sun TV Network Ltd.
+Sundaram Finance Ltd.
+Sundram Fasteners Ltd.
+Sunteck Realty Ltd.
+Supreme Industries Ltd.
+Suven Pharmaceuticals Ltd.
+Suzlon Energy Ltd.
+Swan Energy Ltd.
+Symphony Ltd.
+Syngene International Ltd.
+Tamilnad Mercantile Bank Ltd.
+Tata Chemicals Ltd.
+Tata Communications Ltd.
+Tata Consultancy Services Ltd.
+Tata Consumer Products Ltd.
+Tata Elxsi Ltd.
+Tata Investment Corporation Ltd.
+Tata Motors Ltd.
+Tata Power Company Ltd.
+Tata Steel Ltd.
+Tata Teleservices (Maharashtra) Ltd.
+Tech Mahindra Ltd.
+Techno Electric & Engineering Company Ltd.
+Tejas Networks Ltd.
+Thermax Ltd.
+Timken India Ltd.
+Titan Company Ltd.
+Torrent Pharmaceuticals Ltd.
+Torrent Power Ltd.
+Trent Ltd.
+Trident Ltd.
+Triveni Engineering & Industries Ltd.
+Triveni Turbine Ltd.
+Tube Investments of India Ltd.
+TVS Motor Company Ltd.
+Ujjivan Small Finance Bank Ltd.
+UCO Bank UltraTech Cement Ltd.
+Union Bank of India United Breweries Ltd.
+United Spirits Ltd.
+UNO Minda Ltd.
+UPL Ltd.
+Usha Martin Ltd.
+UTI Asset Management Company Ltd.
+V-Guard Industries Ltd.
+Vardhman Textiles Ltd.
+Varun Beverages Ltd.
+Vedanta Ltd.
+Vijaya Diagnostic Centre Ltd.
+Vinati Organics Ltd.
+VIP Industries Ltd.
+Voltas Ltd.
+Welspun Corp Ltd.
+Welspun Living Ltd.
+Westlife Foodworld Ltd.
+Whirlpool of India Ltd.
+Wipro Ltd.
+Wockhardt Ltd.
+Wonderla Holidays Ltd.
+Yes Bank Ltd.
+Zensar Technologies Ltd.
+ZFCV India Ltd.
+Zomato Ltd.
+Zydus Lifesciences Ltd.
+Zydus Wellness Ltd.
+eMudhra Ltd.
+CIE Automotive India Ltd.
+Nippon Life India Asset Management Ltd. 
