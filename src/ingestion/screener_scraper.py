@@ -50,7 +50,7 @@ class TranscriptInfo:
     """A single transcript discovered on screener.in."""
     company_name: str
     ticker: str
-    date_label: str        # e.g. "Jan 2023"
+    date_label: str
     year: int
     month: int
     pdf_url: str
@@ -97,10 +97,7 @@ class ScrapeResult:
     companies_discarded: List[str] = field(default_factory=list)
     errors: List[str] = field(default_factory=list)
 
-
-# ============================================================
 # Month Parsing
-# ============================================================
 
 MONTH_MAP = {
     "jan": 1, "feb": 2, "mar": 3, "apr": 4, "may": 5, "jun": 6,
@@ -128,10 +125,7 @@ def parse_screener_date(date_text: str) -> Tuple[int, int]:
 
     return year, month
 
-
-# ============================================================
 # Scraper
-# ============================================================
 
 class ScreenerScraper:
     """
@@ -173,9 +167,7 @@ class ScreenerScraper:
         self._checkpoint_path = self.dest_dir / self.CHECKPOINT_FILE
         self._checkpoint: Dict = self._load_checkpoint()
 
-    # ----------------------------------------------------------
     # Filesystem helpers
-    # ----------------------------------------------------------
 
     def _load_existing_files(self) -> set:
         """Cache existing filenames from download directory (once)."""
@@ -189,9 +181,7 @@ class ScreenerScraper:
             logger.warning(f"Could not cache directory listing: {e}")
             return set()
 
-    # ----------------------------------------------------------
     # Checkpoint helpers
-    # ----------------------------------------------------------
 
     def _load_checkpoint(self) -> dict:
         """Load checkpoint from disk, or return a fresh one."""
@@ -217,9 +207,7 @@ class ScreenerScraper:
             encoding="utf-8",
         )
 
-    # ----------------------------------------------------------
     # HTTP helpers
-    # ----------------------------------------------------------
 
     def _random_sleep(self, min_s=None, max_s=None):
         """Sleep for a random duration."""
@@ -258,9 +246,7 @@ class ScreenerScraper:
                 time.sleep(wait)
         return None
 
-    # ----------------------------------------------------------
     # Step 1: Resolve company name → screener.in URL
-    # ----------------------------------------------------------
 
     def _resolve_company(self, company_name: str) -> Optional[Tuple[str, str]]:
         """
@@ -323,9 +309,7 @@ class ScreenerScraper:
 
         return None
 
-    # ----------------------------------------------------------
     # Step 2: Get transcript links from company page
-    # ----------------------------------------------------------
 
     def _get_transcript_links(self, url_path: str) -> List[Tuple[str, int, int, str]]:
         """
@@ -442,10 +426,7 @@ class ScreenerScraper:
 
         return "Unknown"
 
-    # ----------------------------------------------------------
     # Step 3: Download PDF
-    # ----------------------------------------------------------
-
     def _make_filename(self, company_name: str, date_label: str, year: int, month: int) -> str:
         """Generate a safe filename for the downloaded PDF using the full company name."""
         # Sanitize company name for filesystem: remove special chars, replace spaces
@@ -479,10 +460,7 @@ class ScreenerScraper:
         logger.info(f"Downloaded: {filename} ({len(content):,} bytes)")
         return True
 
-    # ----------------------------------------------------------
     # Main Orchestrator
-    # ----------------------------------------------------------
-
     def scrape_all_companies(
         self,
         companies_file: Optional[Path] = None,
@@ -672,9 +650,7 @@ class ScreenerScraper:
         logger.info(f"  Downloaded {downloaded}/{len(filtered)} PDFs for {ticker}")
         return comp
 
-    # ----------------------------------------------------------
     # Report
-    # ----------------------------------------------------------
 
     def _save_report(self, result: ScrapeResult, companies: List[str]):
         """Save final JSON report."""
@@ -742,9 +718,7 @@ class ScreenerScraper:
         logger.info(f"Saved manifest to {fp}")
 
 
-# ============================================================
 # CLI entry point
-# ============================================================
 
 if __name__ == "__main__":
     import argparse
